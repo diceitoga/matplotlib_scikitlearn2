@@ -1,0 +1,5 @@
+{	u'clothes': None,  
+	u'diet': [{u'food': u'grass', u'fur': u'Brown', u'zoo_animal': u'Gazelle'}],  
+	u'food': [u'Meat', u'Veggies', u'Honey'],  
+	u'fur': u'Golden',  u'zoo_animal': u'Lion'
+} 
